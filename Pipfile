@@ -4,12 +4,17 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-tensorflow-gpu = "*"
 pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 jupyter = "*"
 sklearn = "*"
+tensorflow-gpu = "*"
+tensorflow = "*"
+lightkurve = "*"
+astropy = "*"
+astroquery = "*"
+scipy = "*"
 
 [dev-packages]
 
