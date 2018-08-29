@@ -11,10 +11,10 @@ jupyter = "*"
 sklearn = "*"
 tensorflow-gpu = "*"
 tensorflow = "*"
-lightkurve = "*"
 astropy = "*"
-astroquery = "*"
 scipy = "*"
+imblearn = "*"
+keras = "*"
 
 [dev-packages]
 
